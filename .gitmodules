@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "bedrockbio"]
+	path = bedrockbio
+	url = https://github.com/bedrock-bio/bedrock-bio-client
+	subdir = r
