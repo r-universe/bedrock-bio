@@ -4,5 +4,5 @@
 	branch = HEAD
 [submodule "bedrockbio"]
 	path = bedrockbio
-	url = https://github.com/bedrock-bio/bedrock-bio
+	url = https://github.com/bedrock-bio/bedrock-bio-client
 	subdir = r
